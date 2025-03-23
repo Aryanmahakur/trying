@@ -84,4 +84,4 @@ bulk=[
     pymongo.InsertOne({"name":"Mike","age":30})
 ]
 collection.bulk_write(bulk)
-aa
+aaa
